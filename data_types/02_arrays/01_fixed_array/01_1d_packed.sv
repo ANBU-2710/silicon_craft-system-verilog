@@ -1,6 +1,6 @@
 module packed_1d;
-  logic [2:0]array; //array declration
-  bit [15:0] array1;//array declareation
+  logic [2:0]array; //array declaration
+  bit [15:0] array1;//array declaration
   
   initial begin
     array = 3'b101;//array assignmets
