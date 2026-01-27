@@ -3,7 +3,7 @@ module packed_1d;
   bit [15:0] array1;//array declaration
   
   initial begin
-    array = 3'b101;//array assignmets
+    array = 3'b101;//array assignments
     array1 = 16'h10fe;
     foreach(array[i])begin
       $display("data of array[%d] = %0b",i,array[i]);
