@@ -25,3 +25,12 @@ module rand_array;
   end
   
 endmodule
+
+
+/*
+the rand of array = '{'{'h0, 'h1, 'h8, 'h3}, '{'h2, 'h1, 'h5, 'h4}, '{'h5, 'h1, 'h3, 'h3}} 
+the rand of array = '{'{'h5, 'h5, 'h2, 'h0}, '{'h0, 'h0, 'h0, 'hc}, '{'ha, 'h2, 'h0, 'h0}} 
+the rand of array = '{'{'h1, 'h3, 'h7, 'h1}, '{'h7, 'h0, 'h2, 'h3}, '{'h1, 'h3, 'h1, 'h7}} 
+the rand of array = '{'{'h4, 'h3, 'h2, 'h3}, '{'h3, 'h1, 'h4, 'h4}, '{'h5, 'h0, 'h2, 'h5}} 
+the rand of array = '{'{'h7, 'h0, 'h5, 'h0}, '{'h1, 'h7, 'h2, 'h2}, '{'h5, 'h1, 'h3, 'h3}}
+*/
